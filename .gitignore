@@ -1,0 +1,9 @@
+# Carpetas generadas por Visual Studio
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.vspscc
+*.vssscc
