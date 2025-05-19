@@ -3,8 +3,15 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700;800&display=swap" rel="stylesheet" />
+
     <title>Formulario de Seguridad Notarial</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+<style>
+    body {
+        font-family: 'Barlow', sans-serif;
+    }
+</style>
 </head>
 <body>
     <form id="form1" runat="server" class="container mt-4">
